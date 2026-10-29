@@ -12,9 +12,9 @@ Read [https://www.openagistack.com/articles/open-agi-stack-semantic-article/](ht
 ------------------------------------------------------------------------------------------------------------------------------------
 [![Open AGI Stack Semantic Intelligence](/assets/open-agi-stack-semantic-article.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
-[![OpenAGI banner-1](assets/banner-1.png)](https://go.openagi.codes)
+[![OpenAGI banner-1](/assets/banner-1.png)](https://go.openagi.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
-[![OpenAGI banner-2](assets/banner-2.png)](https://go.openagi.codes)
+[![OpenAGI banner-2](/assets/banner-2.png)](https://go.openagi.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
-[![OpenAGI banner-3](assets/banner-3.png)](https://go.openagi.codes)
+[![OpenAGI banner-3](/assets/banner-3.png)](https://go.openagi.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
