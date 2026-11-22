@@ -1,4 +1,4 @@
-# Open AGI Stack Semantics
+# Open AGI Stack
 ## Intelligence into the products
 ### The Semantic Intelligence for enterprise AI
 
