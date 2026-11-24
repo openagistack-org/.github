@@ -1,8 +1,17 @@
-# Open AGI Stack
-## Intelligence into the products
-### The Semantic Intelligence for enterprise AI
+<div align="center">
 
-### From AI that sounds right to AI that understands. Give your AI the context your people already carry. 
+# Open AGI Stack
+
+### Intelligence into the products
+
+**The Semantic Intelligence layer for enterprise AI**
+
+*From AI that sounds right to AI that understands.*
+*Give your AI the context your people already carry.*
+
+
+</div>
+
 
 ### Start with ready-made ontology starter packs, such as Enterprise Core and Healthcare Core, written in Turtle or RDF/XML. Then shape them into a semantic intelligence that is fully yours.
 
