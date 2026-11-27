@@ -17,6 +17,8 @@
 Read [https://www.openagistack.com/articles/open-agi-stack-semantic-article/](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
 
+</div>
+
 ---
 
 ## 🛠️ Modern Engineering: How We Do It
@@ -69,7 +71,9 @@ Read [https://www.openagistack.com/articles/open-agi-stack-semantic-article/](ht
 - **API-First Agent Mesh**: Contracts before code. Formal OpenAPI and schema specifications decoupling services and allowing specialized AI agents to interact with predictable interoperability.
 
 ---
+<div align="center">
 
 **Open AGI Stack Semantics** · Semantic Intelligence for enterprise AI
+
 
 </div>
